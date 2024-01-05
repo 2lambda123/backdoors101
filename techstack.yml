@@ -2,7 +2,7 @@ repo_name: 2lambda123/backdoors101
 report_id: 457e18ee5cb363e6c6be10569d40caa6
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-29T20:30:40+00:00'
+timestamp: '2024-01-05T08:13:51+00:00'
 requested_by: phil0042
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/2lambda123/backdoors101
   detection_source: Repo Metadata
 - name: Matplotlib
   description: A plotting library for the Python programming language
@@ -26,6 +27,7 @@ tools:
   category: Libraries
   sub_category: Charting Libraries
   image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-07 03:56:46.000000000 Z
@@ -37,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/backdoors101
   detection_source: Repo Metadata
 - name: PyPI
   description: A repository of software for the Python programming language
@@ -46,6 +49,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-07 03:56:46.000000000 Z
@@ -58,6 +62,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-07 03:56:46.000000000 Z
@@ -70,6 +75,7 @@ tools:
   category: Libraries
   sub_category: Data Science Tools
   image_url: https://img.stackshare.io/service/3303/scipyshiny_small.png
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-07 03:56:46.000000000 Z
@@ -82,6 +88,7 @@ tools:
   category: Application Utilities
   sub_category: Machine Learning Tools
   image_url: https://img.stackshare.io/service/4475/hpYQzO_U_400x400.png
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-27 02:16:55.000000000 Z
@@ -108,6 +115,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19948/default_611a1328f69b729fac0a7b8bf87ff04e8ce35e17.png
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-07 03:56:46.000000000 Z
@@ -120,6 +128,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19972/default_735d20726524f3a2b12f956af25bde52f942f85a.png
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-27 02:16:55.000000000 Z
@@ -132,6 +141,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19973/default_7bdb5665dee17d53e3a12b8e2b533bcdb6f55a47.png
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-07 17:56:04.000000000 Z
@@ -144,6 +154,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19898/default_4343f8bba4f6051641ffca8b4fbe9b099402c84d.png
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-27 02:16:55.000000000 Z
@@ -156,6 +167,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-27 02:16:55.000000000 Z
@@ -168,6 +180,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-27 02:16:55.000000000 Z
@@ -180,6 +193,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/20377/default_86c41789cbd5dc6b872b122419740f58f5d2f18a.png
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene
   last_updated_on: 2020-11-27 02:16:55.000000000 Z
@@ -192,6 +206,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19846/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/2lambda123/backdoors101/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: Eugene Bagdasaryan
   last_updated_on: 2021-06-24 17:41:15.000000000 Z
